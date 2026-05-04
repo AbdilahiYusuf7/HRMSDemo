@@ -324,7 +324,7 @@
                         <tr class="transition-colors hover:bg-slate-50/70">
                             <td class="px-6 py-4">
                                 <div class="flex items-center gap-3">
-                                    <img src="/HRMS/ceo.jpg" alt="Employee" class="h-10 w-10 rounded-full border border-slate-200 bg-slate-100">
+                                    <img src="/HRMSDemo/ceo.jpg" alt="Employee" class="h-10 w-10 rounded-full border border-slate-200 bg-slate-100">
                                     <div>
                                         <p class="text-sm font-semibold text-slate-700">Fadumo Xasan</p>
                                         <p class="text-[11px] text-slate-400">EMP-0002</p>
